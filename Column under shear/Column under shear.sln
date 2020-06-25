@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Column under shear", "Column under shear.csproj", "{89ED501F-F2B8-422D-82ED-C080DCEC88B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89ED501F-F2B8-422D-82ED-C080DCEC88B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89ED501F-F2B8-422D-82ED-C080DCEC88B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89ED501F-F2B8-422D-82ED-C080DCEC88B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89ED501F-F2B8-422D-82ED-C080DCEC88B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E661FBC-095A-42F5-BB76-77DDEA0ABE01}
+	EndGlobalSection
+EndGlobal

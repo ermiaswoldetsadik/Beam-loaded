@@ -1,0 +1,318 @@
+C:\Users\George\Desktop\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\George\Desktop\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\George\Desktop\Frame3D\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\George\Desktop\Frame3D\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\George\Desktop\Frame3D\WindowsApplication1\bin\Debug\Frame3D.dll
+C:\Users\George\Desktop\Frame3D\WindowsApplication1\bin\Debug\Frame3D.pdb
+C:\Users\George\Desktop\Frame3D\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\George\Desktop\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\George\Desktop\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\George\Desktop\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Users\George\Desktop\Engissol new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\George\Desktop\Engissol new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\George\Desktop\Engissol new apps\Frame3D\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\George\Desktop\Engissol new apps\Frame3D\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\George\Desktop\Engissol new apps\Frame3D\WindowsApplication1\bin\Debug\Frame3D.dll
+C:\Users\George\Desktop\Engissol new apps\Frame3D\WindowsApplication1\bin\Debug\Frame3D.pdb
+C:\Users\George\Desktop\Engissol new apps\Frame3D\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\George\Desktop\Engissol new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\George\Desktop\Engissol new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\George\Desktop\Engissol new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Users\gnaupak\Desktop\Engissol new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\gnaupak\Desktop\Engissol new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\gnaupak\Desktop\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\gnaupak\Desktop\Frame3D\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gnaupak\Desktop\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\gnaupak\Desktop\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\gnaupak\Desktop\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Users\gnaupak\Desktop\Frame3D\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\gnaupak\Desktop\Frame3D\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\gnaupak\Desktop\Frame3D\WindowsApplication1\bin\Debug\Frame3D.dll
+C:\Users\gnaupak\Desktop\Frame3D\WindowsApplication1\bin\Debug\Frame3D.pdb
+C:\Users\gnaupak\Desktop\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\George\Desktop\_new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\George\Desktop\_new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\George\Desktop\new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\George\Desktop\new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\gnaupak\Desktop\new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\gnaupak\Desktop\new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\gnaupak\Desktop\new apps\Frame3D\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gnaupak\Desktop\new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\gnaupak\Desktop\new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\gnaupak\Desktop\new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Users\gnaupak\Desktop\new apps\Frame3D\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\gnaupak\Desktop\new apps\Frame3D\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\gnaupak\Desktop\new apps\Frame3D\WindowsApplication1\bin\Debug\Frame3D.dll
+C:\Users\gnaupak\Desktop\new apps\Frame3D\WindowsApplication1\bin\Debug\Frame3D.pdb
+C:\Users\George\Desktop\new apps\Frame3D\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\George\Desktop\new apps\Frame3D\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\George\Desktop\new apps\Frame3D\WindowsApplication1\bin\Debug\Frame3D.dll
+C:\Users\George\Desktop\new apps\Frame3D\WindowsApplication1\bin\Debug\Frame3D.pdb
+C:\Users\George\Desktop\new apps\Frame3D\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\George\Desktop\new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\George\Desktop\new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\George\Desktop\new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+E:\new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\gnaupak\Desktop\new apps\Frame3D\WindowsApplication1\bin\Debug\Frame3D.xml
+C:\Users\George\Desktop\new apps\Frame3D\WindowsApplication1\bin\Debug\Frame3D.xml
+F:\new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+G:\new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+G:\new apps\Frame3D\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\new apps\Frame3D\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\new apps\Frame3D\WindowsApplication1\bin\Debug\Frame3D.dll
+G:\new apps\Frame3D\WindowsApplication1\bin\Debug\Frame3D.pdb
+G:\new apps\Frame3D\WindowsApplication1\bin\Debug\Frame3D.xml
+G:\new apps\Frame3D\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+G:\new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+G:\new apps\Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Users\George\Desktop\new_Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\George\Desktop\new_Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\George\Desktop\new_Frame3D\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\George\Desktop\new_Frame3D\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\George\Desktop\new_Frame3D\WindowsApplication1\bin\Debug\Frame3D.dll
+C:\Users\George\Desktop\new_Frame3D\WindowsApplication1\bin\Debug\Frame3D.pdb
+C:\Users\George\Desktop\new_Frame3D\WindowsApplication1\bin\Debug\Frame3D.xml
+C:\Users\George\Desktop\new_Frame3D\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\George\Desktop\new_Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\George\Desktop\new_Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\George\Desktop\new_Frame3D\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Users\George\Desktop\new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\George\Desktop\new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\George\Desktop\new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\George\Desktop\new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\George\Desktop\new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.dll
+C:\Users\George\Desktop\new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.pdb
+C:\Users\George\Desktop\new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.xml
+C:\Users\George\Desktop\new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\George\Desktop\new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\George\Desktop\new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\George\Desktop\new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+G:\new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+G:\new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.dll
+G:\new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.pdb
+G:\new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.xml
+G:\new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+G:\new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+G:\new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+F:\new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.dll
+F:\new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+F:\new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+F:\new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+F:\new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.pdb
+F:\new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.xml
+F:\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.dll
+F:\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.pdb
+F:\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.xml
+F:\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+F:\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+F:\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+G:\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+G:\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.dll
+G:\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.pdb
+G:\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.xml
+G:\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+G:\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+G:\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\gnafpaktitis\Επιφάνεια εργασίας\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Documents and Settings\gnafpaktitis\Επιφάνεια εργασίας\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\gnafpaktitis\Επιφάνεια εργασίας\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\gnafpaktitis\Επιφάνεια εργασίας\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\gnafpaktitis\Επιφάνεια εργασίας\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.dll
+C:\Documents and Settings\gnafpaktitis\Επιφάνεια εργασίας\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.pdb
+C:\Documents and Settings\gnafpaktitis\Επιφάνεια εργασίας\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.xml
+C:\Documents and Settings\gnafpaktitis\Επιφάνεια εργασίας\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gnafpaktitis\Επιφάνεια εργασίας\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\gnafpaktitis\Επιφάνεια εργασίας\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Documents and Settings\gnafpaktitis\Επιφάνεια εργασίας\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\ENGISSOL\programming\Libraries\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\ENGISSOL\programming\Libraries\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\ENGISSOL\programming\Libraries\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\ENGISSOL\programming\Libraries\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\ENGISSOL\programming\Libraries\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\ENGISSOL\programming\Libraries\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\ENGISSOL\programming\Libraries\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\ENGISSOL\programming\Libraries\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\ENGISSOL\programming\Libraries\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.dll
+C:\ENGISSOL\programming\Libraries\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.pdb
+C:\ENGISSOL\programming\Libraries\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.xml
+F:\Libraries\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\Libraries\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\Libraries\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\Libraries\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\Libraries\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.dll
+F:\Libraries\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.pdb
+F:\Libraries\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.xml
+F:\Libraries\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\Libraries\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+F:\Libraries\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+F:\Libraries\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Users\George\Desktop\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\George\Desktop\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\George\Desktop\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\George\Desktop\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\George\Desktop\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.dll
+C:\Users\George\Desktop\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.pdb
+C:\Users\George\Desktop\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.xml
+C:\Users\George\Desktop\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\George\Desktop\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\George\Desktop\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\George\Desktop\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Users\George\Desktop\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\zlib.net.dll
+C:\Users\George\Desktop\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\dnAnalytics.dll
+C:\Users\George\Desktop\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\dnAnalytics.xml
+C:\Users\George\Desktop\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\MathNet.Numerics.dll
+C:\Users\George\Desktop\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\MathNet.Numerics.xml
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.dll
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\zlib.net.dll
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\dnAnalytics.dll
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.pdb
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\Frame3D.xml
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\dnAnalytics.xml
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\MathNet.Numerics.dll
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\System.Numerics.dll
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\MathNet.Numerics.xml
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\ja\System.Numerics.resources.dll
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\ko\System.Numerics.resources.dll
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\ru\System.Numerics.resources.dll
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\zh-Hans\System.Numerics.resources.dll
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\zh-Hant\System.Numerics.resources.dll
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\de\System.Numerics.resources.dll
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\es\System.Numerics.resources.dll
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\fr\System.Numerics.resources.dll
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage\WindowsApplication1\bin\Debug\it\System.Numerics.resources.dll
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage - ReverseCuthill\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage - ReverseCuthill\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage - ReverseCuthill\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage - ReverseCuthill\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage - ReverseCuthill\WindowsApplication1\bin\Debug\Frame3D.dll
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage - ReverseCuthill\WindowsApplication1\bin\Debug\Frame3D.pdb
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage - ReverseCuthill\WindowsApplication1\bin\Debug\Frame3D.xml
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage - ReverseCuthill\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage - ReverseCuthill\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage - ReverseCuthill\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+F:\Frame3D_sparse-dnAnalytics\PDelta-new_Frame3D - skyline assemblage - ReverseCuthill\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+H:\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+H:\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+H:\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\bin\Debug\Frame3D.dll
+H:\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\bin\Debug\Frame3D.pdb
+H:\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\bin\Debug\Frame3D.xml
+H:\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+H:\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+H:\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+H:\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+H:\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+H:\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\bin\Debug\Frame3D.dll
+F:\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\bin\Debug\Frame3D.pdb
+F:\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\bin\Debug\Frame3D.xml
+F:\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+F:\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+F:\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Users\George\Desktop\New folder\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\George\Desktop\New folder\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\George\Dropbox\WindowsApplication4\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\George\Dropbox\WindowsApplication4\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\ENGISSOL\programming\Libraries\New folder\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\ENGISSOL\programming\Libraries\New folder\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\ENGISSOL\programming\Libraries\New folder\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\ENGISSOL\programming\Libraries\New folder\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\ENGISSOL\programming\Libraries\New folder\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\ENGISSOL\programming\Libraries\New folder\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\ENGISSOL\programming\Libraries\New folder\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\ENGISSOL\programming\Libraries\New folder\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\ENGISSOL\programming\Libraries\New folder\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\bin\Debug\Frame3D.dll
+C:\ENGISSOL\programming\Libraries\New folder\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\bin\Debug\Frame3D.pdb
+C:\ENGISSOL\programming\Libraries\New folder\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\bin\Debug\Frame3D.xml
+C:\ENGISSOL\programming\Libraries\New folder\PDelta-new_Frame3D - skyline assemblage - Cuthill\WindowsApplication1\bin\Debug\AForge.dll
+C:\ENGISSOL\programming\Libraries\New folder\3D Frame Analysis Library\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\ENGISSOL\programming\Libraries\New folder\3D Frame Analysis Library\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\bin\Debug\Frame3D.dll
+C:\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\bin\Debug\AForge.dll
+C:\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\bin\Debug\Frame3D.pdb
+C:\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\bin\Debug\Frame3D.xml
+C:\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+\\Server216J\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\For customer\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\Server216J\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\For customer\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\Server216J\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\For customer\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\Server216J\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\For customer\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\Server216J\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\For customer\WindowsApplication1\bin\Debug\Frame3D.dll
+\\Server216J\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\For customer\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+\\Server216J\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\For customer\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+\\Server216J\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\For customer\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+\\Server216J\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\For customer\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\ENGISSOL\Customers\Stratco\Upgrade to Advanced\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\ENGISSOL\Customers\Stratco\Upgrade to Advanced\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\georg\Desktop\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\georg\Desktop\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\georg\Desktop\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\georg\Desktop\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\georg\Desktop\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Users\georg\Desktop\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\georg\Desktop\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\georg\Desktop\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\bin\Debug\Frame3D.dll
+C:\Users\georg\Desktop\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\bin\Debug\AForge.dll
+C:\Users\georg\Desktop\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\bin\Debug\Frame3D.pdb
+C:\Users\georg\Desktop\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\bin\Debug\Frame3D.xml
+C:\Users\georg\Desktop\Latest version of 3D Frame Analysis Library\3D Frame Analysis Library\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\For customer\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\For customer\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\For customer\WindowsApplication1\bin\Debug\Frame3D.dll
+C:\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\For customer\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\For customer\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\For customer\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\For customer\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\For customer\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\ENGISSOL\programming\Libraries\Latest version of 3D Frame Analysis Library\For customer\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\ENGISSOL\programming\Libraries\Demo 3D Frame for website\3D Frame Analysis Library - .NET 4.7.2\For customer\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\ENGISSOL\programming\Libraries\Demo 3D Frame for website\3D Frame Analysis Library - .NET 4.7.2\For customer\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\ENGISSOL\programming\Libraries\Demo 3D Frame for website\3D Frame Analysis Library - .NET 4.7.2\For customer\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\ENGISSOL\programming\Libraries\Demo 3D Frame for website\3D Frame Analysis Library - .NET 4.7.2\For customer\WindowsApplication1\bin\Debug\Frame3D.dll
+C:\ENGISSOL\programming\Libraries\Demo 3D Frame for website\3D Frame Analysis Library - .NET 4.7.2\For customer\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\ENGISSOL\programming\Libraries\Demo 3D Frame for website\3D Frame Analysis Library - .NET 4.7.2\For customer\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\ENGISSOL\programming\Libraries\Demo 3D Frame for website\3D Frame Analysis Library - .NET 4.7.2\For customer\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\ENGISSOL\programming\Libraries\Demo 3D Frame for website\3D Frame Analysis Library - .NET 4.7.2\For customer\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\ENGISSOL\programming\Libraries\Demo 3D Frame for website\3D Frame Analysis Library - .NET 4.7.2\For customer\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\ENGISSOL\programming\Libraries\Demo 3D Frame for website\3D Frame Analysis Library - .NET 4.7.2\For customer\WindowsApplication1\obj\Debug\WindowsApplication1.csprojAssemblyReference.cache
+C:\ENGISSOL\programming\Libraries\Demo 3D Frame for website\3D Frame Analysis Library - .NET 4.7.2\For customer\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.CopyComplete
