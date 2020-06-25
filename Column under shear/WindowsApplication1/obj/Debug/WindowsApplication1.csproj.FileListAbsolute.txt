@@ -316,3 +316,15 @@ C:\ENGISSOL\programming\Libraries\Demo 3D Frame for website\3D Frame Analysis Li
 C:\ENGISSOL\programming\Libraries\Demo 3D Frame for website\3D Frame Analysis Library - .NET 4.7.2\For customer\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
 C:\ENGISSOL\programming\Libraries\Demo 3D Frame for website\3D Frame Analysis Library - .NET 4.7.2\For customer\WindowsApplication1\obj\Debug\WindowsApplication1.csprojAssemblyReference.cache
 C:\ENGISSOL\programming\Libraries\Demo 3D Frame for website\3D Frame Analysis Library - .NET 4.7.2\For customer\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.CopyComplete
+C:\Users\ermov\gtcoding\C#\Column-under-shear-\Column under shear\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\ermov\gtcoding\C#\Column-under-shear-\Column under shear\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\ermov\gtcoding\C#\Column-under-shear-\Column under shear\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\ermov\gtcoding\C#\Column-under-shear-\Column under shear\WindowsApplication1\bin\Debug\Frame3D.dll
+C:\Users\ermov\gtcoding\C#\Column-under-shear-\Column under shear\WindowsApplication1\obj\Debug\WindowsApplication1.csprojAssemblyReference.cache
+C:\Users\ermov\gtcoding\C#\Column-under-shear-\Column under shear\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\ermov\gtcoding\C#\Column-under-shear-\Column under shear\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\ermov\gtcoding\C#\Column-under-shear-\Column under shear\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.cache
+C:\Users\ermov\gtcoding\C#\Column-under-shear-\Column under shear\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\ermov\gtcoding\C#\Column-under-shear-\Column under shear\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.CopyComplete
+C:\Users\ermov\gtcoding\C#\Column-under-shear-\Column under shear\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\ermov\gtcoding\C#\Column-under-shear-\Column under shear\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
